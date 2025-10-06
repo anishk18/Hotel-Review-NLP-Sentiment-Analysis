@@ -1,0 +1,22 @@
+# Core packages
+numpy
+pandas
+scikit-learn
+nltk
+
+# Visualization
+matplotlib
+seaborn
+wordcloud
+
+# Jupyter environment
+jupyter
+notebook
+ipykernel
+
+# Optional utilities
+tqdm
+joblib
+
+# (Optional for report generation and formatting)
+plotly
