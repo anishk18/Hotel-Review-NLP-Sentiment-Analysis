@@ -1,19 +1,19 @@
 # 🏨 Hotel Review Sentiment Analysis  
 *Predicting Customer Satisfaction from Hotel Reviews*
 
+## 🗂️ Project Structure
 
-🗂️Project Structure
----
+```
 hotel-review-sentiment-analysis/
+├── data/
+│   └── Hotel_Reviews.csv
 ├── notebooks/
-│   ├── [Hotel_Review_NLP](notebooks/Hotel_Review_NLP.ipynb)
+│   └── Hotel_Review_NLP.ipynb
 ├── .gitignore
 ├── requirements.txt
 ├── README.md
 └── LICENSE
-
-
-
+```
 
 ---
 
